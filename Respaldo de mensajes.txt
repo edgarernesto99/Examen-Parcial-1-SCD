@@ -1,0 +1,16 @@
+Se conecto edgar
+Se conecto luis
+edgar: Hola
+luis: Hola, como estas?
+edgar: Bien y tu?
+Se conecto beto
+luis: Tambien bien, ya tiene su parte del proyecto?
+beto: Si, en un momento se los mando
+edgar: Yo igual
+luis: que tal les ha ido con este semestre?
+beto: echandole ganas xD
+edgar: jaja vale, ahi va mi parte
+luis: Ya me llego
+beto: Ahi va la mia
+beto: nos vemos
+luis: adios
