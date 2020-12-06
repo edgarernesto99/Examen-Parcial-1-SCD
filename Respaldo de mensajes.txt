@@ -1,16 +1,21 @@
-Se conecto edgar
 Se conecto luis
-edgar: Hola
-luis: Hola, como estas?
-edgar: Bien y tu?
+Se conecto edgar
+edgar: hola, que tal
+luis: hola
+edgar: como estas?
 Se conecto beto
-luis: Tambien bien, ya tiene su parte del proyecto?
-beto: Si, en un momento se los mando
-edgar: Yo igual
-luis: que tal les ha ido con este semestre?
-beto: echandole ganas xD
-edgar: jaja vale, ahi va mi parte
-luis: Ya me llego
+luis: bien y tu?
+edgar: tambien bien, por cierto, ya tienen su parte del proyecto?
+luis: si, de hecho apenas termine
+beto: si, yo ahora lo mando
+edgar: ok no hay problema
+luis: y que tal ha estado su semestre?
+beto: bien, echandole ganas jaja xD
+luis: jaja ok, ahi va mi parte del proyecto
+luis: Prueba c2.txt
 beto: Ahi va la mia
-beto: nos vemos
+beto: Prueba c3.txt
+edgar: ok, ya me llegaron
+beto: bueno, nos vemos
 luis: adios
+edgar: ok
