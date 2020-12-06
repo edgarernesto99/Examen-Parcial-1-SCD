@@ -119,6 +119,11 @@ func recibirArchivo(c net.Conn) {
 	defer file.Close()
 	file.Write(archivo.BS)
 
+	msg := archivo.UserName+": "+archivo.Name
+	mensajes.PushBack(msg)
+	if (mostrar) {
+		fmt.Println(msg)
+	}
 	//Mandar archivo a todos
 	enviarArchivoATodos(c, archivo)
 }
